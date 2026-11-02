@@ -1,0 +1,3 @@
+module monkey-lang
+
+go 1.27.3
